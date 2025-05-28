@@ -1,6 +1,6 @@
 # MERN Chatbot avec OpenAI & Gemini
 
-Un chatbot fullstack intelligent construit avec la stack **MERN** (MongoDB, Express, React, Node.js), intégrant **OpenAI** et **Gemini** pour des réponses intelligentes et adaptatives. Ce projet est conçu pour un déploiement facile grâce à **Docker**.
+Un chatbot fullstack intelligent construit avec la stack **MERN** (MongoDB, Express, React, Node.js), intégrant **OpenAI** OU **Gemini** pour des réponses intelligentes et adaptatives. Ce projet est conçu pour un déploiement facile grâce à **Docker**.
 
 ---
 
@@ -11,7 +11,7 @@ Un chatbot fullstack intelligent construit avec la stack **MERN** (MongoDB, Expr
 - 🎨 Frontend React moderne, responsive et intuitif  
 - 🗄️ Stockage des conversations dans MongoDB  
 - 🐳 Déploiement simplifié avec Docker & Docker Compose  
-- ⚙️ Switch facile entre les API OpenAI et Gemini  
+- ⚙️ Choisir entre les API OpenAI et Gemini  
 
 ---
 
@@ -27,7 +27,7 @@ MERN_OPENAI_CHATBOT/
 
 - [Node.js](https://nodejs.org/) v16 ou supérieur  
 - [Docker](https://www.docker.com/) & [Docker Compose](https://docs.docker.com/compose/)  
-- Comptes et clés API OpenAI & Gemini  
+- Comptes et clés API OpenAI OU Gemini 
 
 ---
 
